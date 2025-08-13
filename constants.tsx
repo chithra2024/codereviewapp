@@ -1,7 +1,7 @@
 import React from 'react';
 import { LanguageOption } from './types';
 
-export const GEMINI_MODEL_NAME = 'gemini-2.5-flash-preview-04-17';
+export const GEMINI_MODEL_NAME = 'gemini-2.5-flash';
 
 export const SUPPORTED_LANGUAGES: LanguageOption[] = [
   { value: 'javascript', label: 'JavaScript' },
